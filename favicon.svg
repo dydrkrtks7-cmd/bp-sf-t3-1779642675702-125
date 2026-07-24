@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity 59d1ea7a3e6a79b0</metadata>
-  <rect width="64" height="64" rx="13" fill="hsl(313 65% 38%)"/>
-  <path d="M33 0h31v64H19Z" fill="hsl(90 68% 55%)" opacity="0.82"/>
-  <g transform="rotate(215 32 32)" opacity="0.42"><rect x="16" y="16" width="32" height="32" rx="5" fill="none" stroke="#101418" stroke-width="7" transform="rotate(45 32 32)"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#101418" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">SF</text>
+  <title>백링크 대행 사이트</title>
+  <rect width="64" height="64" rx="10" fill="hsl(313 62% 22%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(112 68% 59%)" opacity="0.16"/>
+  <g transform="rotate(270 32 32)"><circle cx="25" cy="32" r="13" fill="none" stroke="hsl(313 24% 96%)" stroke-width="8"/><circle cx="39" cy="32" r="13" fill="none" stroke="hsl(112 68% 59%)" stroke-width="8"/></g>
 </svg>
